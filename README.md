@@ -13,7 +13,7 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 - 🤔 I’m looking for help to Master Web Development Skills.
 - 💬 Ask me about - JavaScript ES6
 - 📫 Contact me:
-<a href="mailto:tarale.adi@gmail.com?subject=subject&cc=cc@example.com">
+&nbsp;<a href="mailto:tarale.adi@gmail.com?subject=subject&cc=cc@example.com">
   <img align="left" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-tarale-8234261b2/">
@@ -24,6 +24,7 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 </a>
 <br/>
 
+##
 
 <p>Tools and Languages:</p>
 <img align="left" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50">
@@ -33,13 +34,14 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
 <br/>
-
+##
 <p align="left">
  <img align="left" alt="AdityaTarale Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&show_icons=true&hide_border=true&theme=light" />
 </p>
 
 <br/>
 
+##
 <img align="left" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
 <img align="left" src="https://img.shields.io/badge/HTML-5-important">
 <img align="left" src="https://img.shields.io/badge/CSS-3-9cf">
