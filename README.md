@@ -29,7 +29,7 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 
 
 
-**Tools and Languages** :
+### **Tools and Languages** : 
 <img align="left" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50">
 <img align="left" src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="50">
 <img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
