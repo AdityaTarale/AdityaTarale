@@ -25,9 +25,7 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 <br/>
 
 
-### 
-
-**Tools and Languages** :
+<p>**Tools and Languages** :</p>
 <img align="left" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="50">
 <img align="left" src="https://media.giphy.com/media/KzWMBa9V3z8jHJCEC7/giphy.gif" width="50">
 <img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
@@ -35,7 +33,6 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
 
-## 
 
 <p align="left">
  <img align="left" alt="AdityaTarale Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&show_icons=true&hide_border=true&theme=light" />
