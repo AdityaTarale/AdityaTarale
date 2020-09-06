@@ -35,9 +35,10 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 
 ## 
 
-
+<p align="left">
 <img align="left" alt="AdityaTarale Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&show_icons=true&hide_border=true&theme=light" />
-
+</p>
+<br/>
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
 <img align="left" src="https://img.shields.io/badge/HTML-5-important">
