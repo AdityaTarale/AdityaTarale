@@ -22,7 +22,7 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 <a href="https://codepen.io/useraditya">
   <img align="left" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-<br />
+
 
 
 ### **Tools and Languages** :
@@ -31,9 +31,12 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 <img align="left" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 <img align="left" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-<br />
+
 
 ## 
+
+
+<img align="left" alt="AdityaTarale Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&show_icons=true&hide_border=true&theme=light" />
 
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
@@ -41,4 +44,3 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 <img align="left" src="https://img.shields.io/badge/CSS-3-9cf">
 <img align="left" src="https://img.shields.io/badge/Bootstrap-4-blueviolet">
 
-##
