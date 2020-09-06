@@ -1,11 +1,11 @@
 <p align="center">
- 
+ <img src="https://github.com/AdityaTarale/AdityaTarale/blob/master/unDraw.png?raw=true" width="300"/>
 </p>
 
 <h1 align="center">Hi I'm Aditya Tarale</h1>
 
 
-I am Fresher looking for opportunities and collabaration in projects related to web-. 
+I am Fresher looking for opportunities and collabaration in projects related to web-
 
 - 🔭 I’m currently working on Website Projects .
 - 🌱 I’m currently learning ReactJs . 
@@ -35,9 +35,10 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 
 ## 
 
-<img align="left" alt="AdityaTarale Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&show_icons=true&hide_border=true&theme=radical" />
+
 <img align="left" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
 <img align="left" src="https://img.shields.io/badge/HTML-5-important">
 <img align="left" src="https://img.shields.io/badge/CSS-3-9cf">
 <img align="left" src="https://img.shields.io/badge/Bootstrap-4-blueviolet">
-<img align="left" src="https://img.shields.io/badge/JavaScript-ES6-green">
+
+##
