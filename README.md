@@ -13,7 +13,7 @@ I am Fresher looking for opportunities and collabaration in projects related to 
 - 🤔 I’m looking for help to Master Web Development Skills.
 - 💬 Ask me about - JavaScript ES6
 - 📫 Contact me:
-&nbsp;<a href="mailto:tarale.adi@gmail.com?subject=subject&cc=cc@example.com">
+<a href="mailto:tarale.adi@gmail.com?subject=subject&cc=cc@example.com">
   <img align="left" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-tarale-8234261b2/">
