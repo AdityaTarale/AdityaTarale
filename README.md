@@ -5,13 +5,11 @@
 <h1 align="center">Hi I'm Aditya Tarale</h1>
 
 
-I am Fresher looking for opportunities and collabaration in projects related to web-
+Hi I'm Front-end Developer currently focusing on React 
 
-- 🔭 I’m currently working on Website Projects .
-- 🌱 I’m currently learning ReactJs . 
-- 👯 I’m looking to collaborate with FrontEnd Projects. 
-- 🤔 I’m looking for help to Master Web Development Skills.
-- 💬 Ask me about - JavaScript ES6
+- 🌱 I’m currently growing my skills React, Node and Posgres.
+- 👯 I’m looking to collaborate with FrontEnd Projects.
+- 💬 Ask me about - JavaScript
 - 📫 Contact me:
 <a href="mailto:tarale.adi@gmail.com?subject=subject&cc=cc@example.com">
   <img align="left" alt="Nimish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
