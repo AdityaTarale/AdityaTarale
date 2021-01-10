@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media-exp1.licdn.com/dms/image/C5616AQHJgOoQOfj8gA/profile-displaybackgroundimage-shrink_350_1400/0/1603430007337?e=1613001600&v=beta&t=uh98rmw-yuse6Ew7c7shi3ULqqwVnMlMiJM8VM6szTY" width="300"/>
+ <img src="https://media-exp1.licdn.com/dms/image/C5616AQHJgOoQOfj8gA/profile-displaybackgroundimage-shrink_350_1400/0/1603430007337?e=1613001600&v=beta&t=uh98rmw-yuse6Ew7c7shi3ULqqwVnMlMiJM8VM6szTY" width="800"/>
 </p>
 
 <h1 align="center">Hi I'm Aditya Tarale</h1>
