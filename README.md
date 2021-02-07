@@ -46,8 +46,3 @@ Hi I'm Front-end Developer currently focusing on React
 
 ##
 
-<img align="left" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
-<img align="left" src="https://img.shields.io/badge/HTML-5-important">
-<img align="left" src="https://img.shields.io/badge/CSS-3-9cf">
-<img align="left" src="https://img.shields.io/badge/Bootstrap-4-blueviolet">
-
