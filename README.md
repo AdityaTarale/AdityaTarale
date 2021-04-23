@@ -7,7 +7,7 @@
 
 Hi I'm Front-end Developer currently focusing on React 
 
-- 🌱 I’m currently growing my skills React, Node and Postgres.
+- 🌱 I’m currently growing my skills in React Eco System
 - 👯 I’m looking to collaborate with FrontEnd Projects.
 - 💬 Ask me about - JavaScript
 - 📫 Contact me:
