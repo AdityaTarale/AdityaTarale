@@ -43,11 +43,8 @@ Hi I'm Front-end Developer currently focusing on React
 ## 
 
 
-<img align="left" alt="AdityaTarale Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&show_icons=true&hide_border=true&theme=light" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaTarale&count_private=true&show_icons=true&theme=radical" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTarale&layout=compact&theme=radical" height="170px">
-
 
 
 ##
