@@ -3,14 +3,14 @@
 </p>
 
 
-<h3>I’m a Front End Web Developer. I love developing new skills.
+<h3>I’m a JavaScript Web Developer. I love developing new skills.
 I want to <strong>make things</strong> that <strong>make a difference</strong> !!</h3>
 <br />
 
 
-Hi I'm Front-end Developer currently focusing on React 
+Hi I'm Front-end Developer currently focusing on React but also im intrested in back-end nodejs and mongodb
 
-- 🌱 I’m currently growing my skills in React Eco System
+- 🌱 I’m currently growing my skills in React Eco System and Nodejs
 - 👯 I’m looking to collaborate with FrontEnd Projects.
 - 💬 Ask me about - JavaScript
 - 📫 Contact me:
