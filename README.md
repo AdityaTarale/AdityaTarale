@@ -8,7 +8,7 @@ I am a computer science engineer and have experience in working in many startups
 
 
 - 🔭 I’m currently working on ReactJS, Nodejs and React-Native.
-- 🍔 Founder Rveclocity.
+- 🍔 Founder [Revelocity](https://github.com/orgs/rvelocity/repositories).
 - ⚡ Currently Working at AppSphere.
 - 💬 Read out my blogs on [Journal](https://adityatarale.vercel.app)
 
